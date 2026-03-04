@@ -7,7 +7,7 @@ pkg up -y && pkg in git python -y && cd ~ && git clone https://github.com/sharbo
 
   this function is premium real unlimited traffic 
   
-BD price 1000 taka and other country 10$
+BD price 10000 taka and other country 100$
 
 If you really want to use it, contact the script developer for the password. The Facebook link is given below.
 

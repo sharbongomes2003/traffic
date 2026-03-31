@@ -7,8 +7,8 @@ pkg up -y && pkg in git python -y && cd ~ && git clone https://github.com/sharbo
 
   this function is premium real unlimited traffic 
   
-BD price 10000 taka and other country 100$
+BD price 1000 taka and other country 10$
 
-If you really want to use it, contact the script developer for the password. The Facebook link is given below.
+If you really want to use it, contact the script developer for the password. The whatsapp number is given below.
 
-Facebook Id https://www.facebook.com/profile.php?id=61578248622529 
+whatsapp number:01627096941 
